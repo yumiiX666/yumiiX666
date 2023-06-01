@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Cesi<br><br>- 🌱 I’m currently learning : HTML, C, JavaScript<br><br>- 💬 Ask me about : I don't like chocolate!<br><br>- 📫 How to reach me : marine.mazou@viacesi.fr</p>
+<p align="left">- 🔭 I’m currently working on [Cesi](https://pau.cesi.fr/)<br><br>- 🌱 I’m currently learning : HTML, C, JavaScript<br><br>- 💬 Ask me about : I don't like chocolate!<br><br>- 📫 How to reach me : marine.mazou@viacesi.fr</p>
 
 ###
 
