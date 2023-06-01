@@ -7,7 +7,7 @@
 ###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yumiix666" alt="yumiix666" /></a> </p>
-- 🔭 I’m currently working on [Cesi](https://pau.cesi.fr/) <br><br>
+- 🔭 I’m currently working on [Cesi](https://pau.cesi.fr/)
 - 🌱 I’m currently learning : HTML, C, JavaScript<br><br>
 - 💬 Ask me about : I don't like chocolate!<br><br>
 - 📫 How to reach me : marine.mazou@viacesi.fr</p>
