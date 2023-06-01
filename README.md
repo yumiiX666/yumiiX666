@@ -3,15 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yumiix666" alt="yumiix666" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mxrine_x" target="blank"><img src="https://img.shields.io/twitter/follow/mxrine_x?logo=twitter&style=for-the-badge" alt="mxrine_x" /></a> </p>
-
 - 🔭 I’m currently working on [Cesi](x)
 
 - 🌱 I’m currently learning **HTML, C, JavaScript**
-
-- 👯 I’m looking to collaborate on [x](x)
-
-- 🤝 I’m looking for help with [x](x)
 
 - 💬 Ask me about **I don't like chocolate!**
 
