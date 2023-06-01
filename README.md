@@ -10,17 +10,6 @@
 
 ###
 
-<h4 align="left">Stats :</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yumiiX666&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&custom_title=Ma's Github Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=yumiiX666&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <h4 align="left">Connect with me:</h4>
 
 ###
@@ -93,20 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yumiiX666/yumiiX666/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/e50x8zocc4z4du6l6e2f75bcy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
