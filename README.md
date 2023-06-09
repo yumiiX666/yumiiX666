@@ -17,9 +17,9 @@
 
 ###
 <div>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo"/>
-<p>.yumii⁶₆⁶#9999</p>
- </div>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo" style="display: inline;"/>
+  <p style="display: inline;">: .yumii⁶₆⁶#9999</p>
+</div>
  
 <div align="left">
   <a href="https://www.instagram.com/mxriine._x" target="_blank">
