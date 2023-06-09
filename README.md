@@ -15,9 +15,7 @@
 
 <h4 align="left">Connect with me:</h4>
 
-###
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo"/> .yumii⁶₆⁶#9999
- 
+### 
 <div align="left">
   <a href="https://www.instagram.com/mxriine._x" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
@@ -30,6 +28,8 @@
   <a href="https://www.linkedin.com/in/marine-mazou-13b279254/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
   </a>
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo"/> .yumii⁶₆⁶#9999
 </div>
 
 ###
