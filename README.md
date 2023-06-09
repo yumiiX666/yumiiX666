@@ -16,10 +16,8 @@
 <h4 align="left">Connect with me:</h4>
 
 ###
-
-<p>.yumii⁶₆⁶#9999</p>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="36" alt="discord logo"  />
-  
+  <p>.yumii⁶₆⁶#9999</p>
 
 <div align="left">
   <a href="https://www.instagram.com/mxriine._x" target="_blank">
